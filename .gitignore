@@ -5,6 +5,12 @@
 *.tfstate
 *.tfstate.*
 
+# .tfvars files
+*.tfvars
+*.tfvars.*
+
+# .idea folder
+**/.idea
 # Crash log files
 crash.log
 
